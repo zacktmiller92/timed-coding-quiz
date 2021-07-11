@@ -1,5 +1,7 @@
 # timed-coding-quiz
 
+url: https://zacktmiller92.github.io/timed-coding-quiz/
+
 ## Overview
 This project is to practice manipulation of the DOM. 
 - A button exists to start the quiz
